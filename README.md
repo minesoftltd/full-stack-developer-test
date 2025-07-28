@@ -8,7 +8,7 @@ This test is divided into two sections:
 ## Submitting Your Work
 The test should be submitted by emailing us a link to a public GitHub repository containing your work.  
 Answers to the follow-up questions should be located in a FOLLOWUP.md markdown file within the project.  
-Feel free to spend as much or as little time on the coding test as you like. We appreciate that people lead busy lives and would guide you to spend no more than 2-3 hours on a submission.
+Feel free to spend as much or as little time on the coding test as you like. We appreciate that people lead busy lives and would guide you to not spend an excessive amount of time on this test. The follow-up questions section may be used to articulate what you would have added if you had more time.
 
 ## Coding Test
 ### Technology Requirements
